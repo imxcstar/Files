@@ -1,8 +1,8 @@
- ### Files是一个文件浏览列表，带有搜索（按左上角的Files就可以搜索），部分文件预览功能
- ### Demo：http://files.xcssa.com
- ### 版本：0.0.1
- ### 安装：
- #####环境：nginx+php
+### Files是一个文件浏览列表，带有搜索（按左上角的Files就可以搜索），部分文件预览功能
+### Demo：http://files.xcssa.com
+### 版本：0.0.1
+### 安装：
+#####环境：nginx+php
 Linux下nginx配置事例：
 （我这里的环境是nginx1.12+php7.2，其它的可自行修改）
 ```
